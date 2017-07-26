@@ -5,6 +5,7 @@ Nonetheless, this is my official first try and trying to learn this technology.
 
 ```html
 <div>
-  <p>I am html</p>
+  <!-- I am a comment -->
+  <p>I am a paragraph.</p>
 </div>
 ```
